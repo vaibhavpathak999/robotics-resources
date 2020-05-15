@@ -1,1 +1,33 @@
-intial file 
+Websites for Learning Arduino and Projects Ideas
+
+https://www.arduino.cc/en/Tutorial/HomePage?from=Main.Tutorials (ArduinoHub)
+https://hackaday.io/ (Hack a Day)
+https://www.hackster.io/arduino/projects (Hackster community)
+https://www.sparkfun.com (Spark Fun)
+https://makezine.com/ (Makers Community)
+https://www.instructables.com/ (Instructables)
+https://learn.adafruit.com/ (Adafruit)
+https://www.tutorialspoint.com/arduino/index.htm (tutorials point)
+https://www.makerspaces.com/arduino-uno-tutorial-beginners/ (Makers Space)
+
+
+Youtube Tutorials-
+
+https://www.youtube.com/user/arduinoteam/videos (Arduino)
+https://youtu.be/2-OP5bAWVlw (ProgrammingKnowledge)
+https://youtu.be/KqQRhK9byQc (Ideas TV)
+https://youtu.be/1n_KjpMfVT0 (DIY Builder)
+https://www.youtube.com/user/OSHJunkies/playlists (Programming Electronics Academy)
+
+
+Related Books -
+
+Getting Started with Arduino: The Open Source Electronics Prototyping Platform (Make) 3rd Edition
+Programming Arduino: Getting Started with Sketches
+Exploring Arduino: Tools and Techniques for Engineering Wizardry
+Arduino Cookbook, 2nd Edition
+Arduino For Dummies
+Arduino Workshop: A Hands-On Introduction with 65 Projects
+
+
+
